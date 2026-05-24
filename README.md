@@ -122,8 +122,8 @@ No advanced coding required
 ## 🛠️ Editor and Themes
 
 <p align="center">
-  <img src="README_ASSETS/editor.png" width="45%" />
-  <img src="README_ASSETS/themes.png" width="45%" />
+  <img src="README_ASSETS/Screenshot 2026-05-24 210301.png" width="45%" />
+  <img src="README_ASSETS/Screenshot 2026-05-24 210350.png" width="45%" />
 </p>
 
 ---
