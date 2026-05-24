@@ -1,0 +1,42 @@
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# MemoryCaptures can get quite large and should be ignored
+/[Mm]emoryCaptures/
+
+# Asset store packages and artifacts
+/[Aa]ssets/AssetStoreTools*
+
+# Visual Studio / MonoDevelop / Rider generated files
+# (keep tracking of VS project files if they are not generated)
+/*.csproj
+/*.unityproj
+/*.sln
+/*.suo
+/*.tmp
+/*.user
+/*.userprefs
+/*.pidb
+/*.booproj
+/*.svd
+/*.pdb
+/*.opendb
+/*.db
+/sysinfo.txt
+
+# Crashlytics generated file
+/crashlytics-build.properties
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# VS files and logs
+.vs/
+*.log
+

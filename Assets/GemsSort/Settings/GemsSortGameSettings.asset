@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b421002c2c6dd4e4fb577dc55fcc6e56, type: 3}
+  m_Name: GemsSortGameSettings
+  m_EditorClassIdentifier: 
+  levelFiles:
+  - {fileID: 4900000, guid: 1c92e8c4b61be7e40a5c74097606a6ab, type: 3}
+  - {fileID: 4900000, guid: 32dfdc96291f56348b8acff35360e959, type: 3}
+  - {fileID: 4900000, guid: d174b8dd400341041b165bb09d0b0b24, type: 3}
+  - {fileID: 4900000, guid: 3c067fc7ff87199449aae70c4ba76f10, type: 3}
+  - {fileID: 4900000, guid: 44400eb32d3de0c468bee60608a4e758, type: 3}
+  - {fileID: 4900000, guid: 169640f46fc7843448b8fc00c3c9fcbe, type: 3}
+  - {fileID: 4900000, guid: 6d4f41164ea03f24797622453949198f, type: 3}
+  - {fileID: 4900000, guid: 69be309a41b180347af8079044a1bf55, type: 3}
+  - {fileID: 4900000, guid: 37540124641e61f40a52d588a7ecdf27, type: 3}
+  - {fileID: 4900000, guid: f5e1654672f3d5a498d295a56c9c3e34, type: 3}
+  - {fileID: 4900000, guid: dc691c6adf862e84eb1e8e5320785e3d, type: 3}
+  - {fileID: 4900000, guid: 69d57b6c6148430468916469f7824bd9, type: 3}
+  - {fileID: 4900000, guid: f8e608aa48f49474587a020872b33f50, type: 3}
+  - {fileID: 4900000, guid: 04f870b9b3300364db13d14c13b6a5e2, type: 3}
+  - {fileID: 4900000, guid: 472b17aee83b0ca4ca37261fd68bb286, type: 3}
+  - {fileID: 4900000, guid: f556cc96ab32b9040860bdcfa5330d77, type: 3}
+  - {fileID: 4900000, guid: cd62b5f9a0ba4ee4a9edf289093f7150, type: 3}
+  - {fileID: 4900000, guid: 389480facc92a104793db2fad48283d9, type: 3}
+  - {fileID: 4900000, guid: 2949e4693847baf4385521f705d4ebea, type: 3}
+  - {fileID: 4900000, guid: 8b141da7bf6fe1245a9e68fbe64a5d31, type: 3}
+  - {fileID: 4900000, guid: d174b8dd400341041b165bb09d0b0b24, type: 3}
+  - {fileID: 4900000, guid: e95f4837ed98d794f906b4212ea87fb4, type: 3}
+  - {fileID: 4900000, guid: 32dfdc96291f56348b8acff35360e959, type: 3}
+  - {fileID: 4900000, guid: 2c711408553bded489d8c702c4e5ed26, type: 3}
+  cameraMinOrthographicSize: 6
+  boardFitPadding: 0.8
+  boardShelfGap: 0.85
+  shelfBottomMargin: 2
+  minBoardScale: 0.2
+  maxBoardZoom: 3
+  mouseZoomStep: 1.1
+  panStartThreshold: 0.08
+  cellSeamOverlap: 1.025
+  shelfColumns: 14
+  shelfRows: 1
+  maxShelfRows: 4
+  shelfCellScale: 0.5
+  boardMoveDuration: 0.25
+  shelfMoveDuration: 0.5
+  shelfSettleDuration: 0.09
+  boardMoveStaggerDelay: 0.05
+  shelfMoveStaggerDelay: 0.05
