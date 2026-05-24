@@ -40,15 +40,15 @@ Built for mobile puzzle games, this template focuses on smooth gameplay, relaxin
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="README_ASSETS/shot (1).png" width="30%" />
-  <img src="README_ASSETS/shot (2).png" width="30%" />
-  <img src="README_ASSETS/shot (3).png" width="30%" />
+  <img src="README_ASSETS/Image Sequence_001_0000.jpg" width="30%" />
+  <img src="README_ASSETS/Image Sequence_002_0000.jpg" width="30%" />
+  <img src="README_ASSETS/Image Sequence_006_0000.jpg" width="30%" />
 </p>
 
 <p align="center">
-  <img src="README_ASSETS/shot (4).png" width="30%" />
-  <img src="README_ASSETS/shot (5).png" width="30%" />
-  <img src="README_ASSETS/shot (6).png" width="30%" />
+  <img src="README_ASSETS/Image Sequence_006_0000.jpg" width="30%" />
+  <img src="README_ASSETS/Image Sequence_007_0000.jpg" width="30%" />
+  <img src="README_ASSETS/Image Sequence_008_0000.jpg" width="30%" />
 </p>
 
 ---
