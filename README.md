@@ -11,7 +11,7 @@
 </p>
 
 **Brilliant Sort** is a complete Unity template for building satisfying gem sorting puzzle games where players organize colorful gems to gradually reveal hidden pixel art images.
-
+Shoutout to https://github.com/tejasshrimali for providing the base
 Built for mobile puzzle games, this template focuses on smooth gameplay, relaxing visuals, rewarding progression, and easy content creation.
 
 ---
