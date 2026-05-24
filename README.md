@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="README_ASSETS/logo.png" width="25%" />
+  <img src="README_ASSETS/dO4Ryr.png" width="25%" />
 </p>
 
 **Brilliant Sort** is a complete Unity template for building satisfying gem sorting puzzle games where players organize colorful gems to gradually reveal hidden pixel art images.
@@ -16,19 +16,12 @@ Built for mobile puzzle games, this template focuses on smooth gameplay, relaxin
 
 ---
 
-## 🎮 Gameplay Preview
-
-<p align="center">
-  <img src="README_ASSETS/gameplay.gif" width="70%" />
-</p>
-
----
 
 ## ▶ Watch Full Demo
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID">
-    <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg" width="50%" />
+  <a href="https://www.youtube.com/watch?v=ZIjuJGqOpzE">
+    <img src="https://img.youtube.com/vi/ZIjuJGqOpzE/0.jpg" width="50%" />
   </a>
 </p>
 
@@ -37,7 +30,7 @@ Built for mobile puzzle games, this template focuses on smooth gameplay, relaxin
 ## ▶ Play Demo
 
 <p align="center">
-  <a href="https://thecrude.itch.io/YOUR_GAME_LINK">
+  <a href="https://thecrude.itch.io/jewelsort">
     <img src="https://static.itch.io/images/badge.svg" width="220"/>
   </a>
 </p>
