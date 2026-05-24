@@ -68,7 +68,7 @@ Built for mobile puzzle games, this template focuses on smooth gameplay, relaxin
 ### 🎨 Customization and Tools
 
 * Easy level creation workflow
-* ScriptableObject based level system
+* JSON based level system
 * Multiple visual themes included
 * Flexible image reveal system
 * Mobile optimized controls and UI
@@ -80,12 +80,11 @@ Built for mobile puzzle games, this template focuses on smooth gameplay, relaxin
 * Image progression system
 * Unlockable artwork collections
 * Level packs support
-* Event and gallery ready structure
 * Reward based progression flow
 
 ---
 
-### 💰 Monetization Ready
+### 💰 Monetization Ready [contact developer for it]
 
 * AdMob integration included
 * Rewarded ads support
